@@ -1,4 +1,5 @@
-```markdown
+
+
 # Fake News Detection using Machine Learning
 
 This repository contains Python scripts to classify news articles as real or fake using various machine learning models. It preprocesses textual data, applies TF-IDF vectorization, and deploys multiple classifiers for prediction.
@@ -61,5 +62,5 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - This project was developed as part of learning and implementing machine learning for text classification.
 - Dataset source: [Provide dataset source if applicable]
-```
 
+---
